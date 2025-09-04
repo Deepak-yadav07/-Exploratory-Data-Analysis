@@ -12,6 +12,9 @@ Studied customer demographics (state, occupation, gender, age groups) to identif
 
 Analyzed top-selling product categories and revenue trends to support better inventory management and sales planning.
 
+Sales by Gender
+
+<img width="713" height="498" alt="Screenshot (755)" src="https://github.com/user-attachments/assets/b15b5c42-9945-4b35-a340-a76673164ded" />
 
 
 Tech Stack
