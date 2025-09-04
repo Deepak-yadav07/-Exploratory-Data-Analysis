@@ -47,6 +47,7 @@ Analyzed top-selling product categories and revenue trends to support better inv
 Tech Stack
 
 --Python
+
 1.Pandas – Data manipulation and cleaning.
 
 2.Matplotlib & Seaborn – Data visualization.
