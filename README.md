@@ -1,4 +1,4 @@
-Diwali Sales Analysis
+🎇Diwali Sales Analysis
 
 This project focuses on analyzing Diwali Sales Data to derive meaningful business insights that can help improve customer experience, targeting strategies, and sales performance.
 
@@ -46,10 +46,10 @@ Analyzed top-selling product categories and revenue trends to support better inv
 
 Tech Stack
 
-Python
-Pandas – Data manipulation and cleaning
-Matplotlib & Seaborn – Data visualization
-Jupyter Notebook – Interactive analysis
+--Python
+1.Pandas – Data manipulation and cleaning
+2.Matplotlib & Seaborn – Data visualization
+3.Jupyter Notebook – Interactive analysis
 
 
 Key Insights
