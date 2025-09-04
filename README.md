@@ -55,12 +55,13 @@ Tech Stack
 3.Jupyter Notebook – Interactive analysis.
 
 
-Key Insights
+Key Insights--
 
 Married women in the age group 26–35 years from Uttar Pradesh, Maharashtra, and Karnataka were the highest spenders.
 IT, Healthcare, and Aviation professionals showed strong purchasing behavior.
 Clothing, Footwear, and Electronics were the top-selling product categories during Diwali.
 
-Conclusion
+Conclusion--
+
 Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT,
 Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
