@@ -37,22 +37,15 @@ Analyzed top-selling product categories and revenue trends to support better inv
 
 
 Tech Stack
-
 Python
-
 Pandas – Data manipulation and cleaning
-
 Matplotlib & Seaborn – Data visualization
-
 Jupyter Notebook – Interactive analysis
 
 
 
 
 Key Insights
-
 Married women in the age group 26–35 years from Uttar Pradesh, Maharashtra, and Karnataka were the highest spenders.
-
 IT, Healthcare, and Aviation professionals showed strong purchasing behavior.
-
 Clothing, Footwear, and Electronics were the top-selling product categories during Diwali.
